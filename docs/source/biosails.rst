@@ -26,6 +26,10 @@ On this website, you will find :ref:`everything <settingup>` that we have put to
 
 If this is your first visit, we suggest you start with this guide here, which will take you from “No BioSAILs” all the way to reading an interesting paper and translating that into an analysis workflow.
 
+.. figure:: /images/cgsb.png
+   :alt: Biosails Workflow
+
+   *Figure: Biosails Workflow Diagram*
 
 
 Install on Linux
