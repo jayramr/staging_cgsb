@@ -8,7 +8,7 @@ In this section you will learn how to
  * Adjust the appearance 
  * Select and Preview
 
-This video will teach you everything 
+Video reference  
 
 .. raw:: html
    
